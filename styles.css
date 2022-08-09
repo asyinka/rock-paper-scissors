@@ -1,0 +1,22 @@
+
+.gameButton{
+    width: 100px;
+    height: 30px;
+    background-color: rgba(255, 8, 0, 0.795);
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 2px solid wheat;
+    font-weight: bold;
+    font-size: 1rem;
+    color: rgb(136, 241, 168);
+    padding: 2px;
+}
+#container{
+    margin: 2px solid green;
+    background-color: blanchedalmond;
+    border-radius: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
